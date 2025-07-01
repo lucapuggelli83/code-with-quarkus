@@ -84,3 +84,24 @@ Create your first JPA entity
 Easily start your REST Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+
+### Http Protocol
+
+https://www.insidemarketing.it/glossario/definizione/http/
+https://www.flaviobiscaldi.it/blog/protocollo-http-cosa-e-come-funziona
+
+### Rest Standard
+
+https://it.wikipedia.org/wiki/Representational_state_transfer#:~:text=Il%20termine%20REST%20rappresenta%20un,REST%20si%20basa%20su%20HTTP
+
+### Quarkus Help
+
+https://quarkus.io/guides/rest
+https://quarkus.io/guides/rest#json-serialisation
+https://quarkus.io/guides/hibernate-orm-panache
+https://quarkus.io/guides/datasource
+
+### Utilities
+
+https://www.docker.com/
+https://www.postman.com/
